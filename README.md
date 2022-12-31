@@ -1,0 +1,4 @@
+# Bike-Sharing-Case-Study
+
+- In this project, we were tasked with helping a US bike-sharing provider called BoomBikes to understand the demand for shared bikes after the Covid-19 quarantine and to identify the variables that are significant in predicting this demand. To do this, we used statistical modeling techniques to build a linear model that predicts the demand for shared bikes based on explanatory variables. we also evaluated the model's performance using techniques like cross-validation and goodness-of-fit measures to determine the accuracy of the model. This information was used by the company to develop a mindful business plan and to prepare for the post-quarantine market. 
+- The goal of the project was to help the company stand out from other service providers and accelerate its revenue once the lockdown ends and the economy recovers.
